@@ -1,7 +1,7 @@
 # AirQualityPrediction
 Hava kalitesi, insan sağlığı ve çevre üzerinde büyük bir etkiye sahiptir. Hindistan'da
 hava kalitesini etkileyen başlıca faktörler şunlardır:
-• PM2.5 ve PM10: Solunabilir partiküller
+* PM2.5 ve PM10: Solunabilir partiküller
 • NO, NO2, NOx: Azot oksitler
 • NH3: Amonyak
 • CO: Karbon monoksit
